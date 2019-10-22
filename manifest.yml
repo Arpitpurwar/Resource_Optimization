@@ -1,0 +1,6 @@
+---
+applications:
+ - name: garage_capacity
+   random-route: false
+   memory: 100M
+   

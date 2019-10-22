@@ -1,2 +1,2 @@
-# Resource_Optimization
-Customized web App to manage efficiently resources of organization
+# nodejs_with_DB2
+This repo has backend API which have connection with DB2
